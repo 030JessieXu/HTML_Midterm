@@ -1,0 +1,201 @@
+/*網頁表頭*/
+.PageHead{
+
+    width: 1920px;
+    height: 80px;
+
+    background-color:#AA0601;
+    
+    opacity: 1;
+}
+.logonewPIC{
+    margin-left:312px;
+    margin-top:16px;
+}
+/*系列鏡框*/
+.HeadContent{
+    margin-top: -40px;
+    margin-left: 724px;
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+
+    text-transform: uppercase;
+
+    line-height: 30px;
+    letter-spacing:0px;
+    
+}
+/*門市據點*/
+.HeadContent2{
+    margin-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+
+    text-transform: uppercase;
+
+    line-height: 30px;
+    letter-spacing:0px;
+    
+}
+/*找不到圖片*/
+.HeadContentPIC{
+    width: 1920px;
+    height: 787px;
+
+    background-color: antiquewhite;
+}
+
+/*Promise-Desert 2020 早春系列*/
+.word1{
+    padding-top: 320px;
+    margin-left: 1107px;
+
+    color: #650300;
+    font-size: 36px;
+    text-align: center;
+    line-height: 54px;
+ 
+}
+.word2{
+    margin-top: 1500px;
+    margin-left: 1107px;
+
+    color: #650300;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 96px;
+ 
+}
+.word3{
+    margin-top:2000px;
+    margin-left: 1107px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+
+    border: #650300 solid 1px;
+    background-color: #AA0601;
+ 
+}
+/*用專業的心，做專業的事*/
+.UseHeart{
+    width: 1920px;
+    height: 488px;
+
+    background-color:#FBF2F2;
+    
+}
+.Useword01{
+    margin-top: 0px;
+    margin-left: 696px; 
+    padding-top: 80px;
+
+    color: #650300;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: Left;
+    line-height: 80px;
+}
+
+
+.UsePIC03{
+
+    margin-left:200px;
+    
+    width: 83.83px;
+    height: 83.83px;
+
+    color: #650300;
+    background-color: #AA0601;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 80px;
+}
+.UsePIC04{
+
+    margin-left: 200px;
+    
+    width: 83.83px;
+    height: 83.83px;
+
+    color: #650300;
+    background-color: #AA0601;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 80px;
+}
+/*單一價格*/
+.UsePIC01{
+
+    margin-left: 312px;
+    
+    width: 83.83px;
+    height: 83.83px;
+
+    color: #650300;
+    background-color: #AA0601;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 80px;
+}
+.price01{
+    margin-left: 312px;
+    color:#650300 ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+.price02{
+
+    margin-left: 312px;
+    margin-right: 1302px;
+    width: 306px;
+    height: 48px;
+    color:#000000;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+}
+/*20 分鐘即可取件*/
+.UsePIC02{
+
+    margin-left: 753.33px;
+    
+    width: 83.83px;
+    height: 83.83px;
+
+    color: #650300;
+    background-color: #AA0601;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 80px;
+}
+.min20sec{
+
+}
+.min20{
+    margin-left: 642px;
+    margin-right: 1302px;
+    width: 306px;
+    height: 48px;
+    color:#000000;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+}
+/*安心售後服務*/
+/*關於鏡片*/
+
